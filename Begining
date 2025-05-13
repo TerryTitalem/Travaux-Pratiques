@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Logiciels Libres</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        .article {
+            background: white;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .important {
+            background-color: #e8f4f8;
+            padding: 10px;
+            border-left: 4px solid #3498db;
+        }
+    </style>
+</head>
+<body>
+    <h1>Les Logiciels Libres</h1>
+    
+    <div class="article">
+        <h2>Qu'est-ce qu'un logiciel libre ?</h2>
+        <p>Un logiciel libre est un programme informatique dont l'utilisation, l'étude, la modification et la diffusion sont permises.</p>
+        <p>La Free Software Foundation définit quatre libertés essentielles :</p>
+        <ol>
+            <li>Liberté d'exécuter le programme</li>
+            <li>Liberté d'étudier le fonctionnement</li>
+            <li>Liberté de redistribuer des copies</li>
+            <li>Liberté d'améliorer le programme</li>
+        </ol>
+    </div>
+
+    <div class="article">
+        <h2>Exemples populaires</h2>
+        <ul>
+            <li><strong>Linux</strong> : Système d'exploitation libre</li>
+            <li><strong>LibreOffice</strong> : Suite bureautique alternative à Microsoft Office</li>
+            <li><strong>Firefox</strong> : Navigateur web respectueux de la vie privée</li>
+            <li><strong>GIMP</strong> : Alternative libre à Photoshop</li>
+            <li><strong>VLC</strong> : Lecteur multimédia universel</li>
+        </ul>
+    </div>
+
+    <div class="important">
+        <h2>Pourquoi choisir le libre ?</h2>
+        <p>Les logiciels libres offrent :</p>
+        <ul>
+            <li>Pas de coûts de licence</li>
+            <li>Une communauté active</li>
+            <li>Plus de sécurité et transparence</li>
+            <li>Pas de tracking ou collecte de données</li>
+            <li>Interopérabilité avec d'autres systèmes</li>
+        </ul>
+    </div>
+
+    <div class="article">
+        <h2>Différence avec l'open source</h2>
+        <p>Bien que similaires, les termes ne sont pas synonymes :</p>
+        <p>Le <strong>libre</strong> met l'accent sur les libertés et l'éthique.</p>
+        <p>L'<strong>open source</strong> se concentre sur les avantages pratiques du code ouvert.</p>
+    </div>
+
+    <div class="article">
+        <h2>Où trouver des logiciels libres ?</h2>
+        <p>Plusieurs plateformes référencent des logiciels libres :</p>
+        <ul>
+            <li>Framalibre (framalibre.org)</li>
+            <li>Alternativeto.net (avec filtre "open source")</li>
+            <li>Les dépôts officiels des distributions Linux</li>
+        </ul>
+    </div>
+</body>
+</html>
